@@ -1,0 +1,14 @@
+#all{
+    text-align: center;
+    position: relative;
+    top: 300px;
+    left: 400px;
+    border: 2px solid white;
+    padding: 20px;
+    width: fit-content;
+    height:50px ;
+
+}
+#body{
+    background-color: rgb(203, 235, 235);
+}
